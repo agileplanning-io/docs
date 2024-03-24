@@ -85,4 +85,6 @@ Jira Flow Metrics lets you define cycle time policies for epics to get around th
 
 You can define default cycle time policies under the project settings.
 
-## Exploring your data
+## Next steps
+
+Once you've configured a project, read the next guide [Explore Your Data]({{< ref "explore-your-data" >}} "Explore Your Data").
