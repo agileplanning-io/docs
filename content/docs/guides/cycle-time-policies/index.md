@@ -56,4 +56,4 @@ Suppose a team represents product discovery work in Jira using tasks labelled wi
 
 ## Next Steps
 
-Now that you understand cycle time policies, you may wish to [configure your project]({{< ref "configure-project" >}} "Configure Your Project") to make reporting easier and faster with meaningful defaults.
+Now that you understand cycle time policies, you may wish to [configure your project]({{< ref "configure-your-project" >}} "Configure Your Project") to make reporting easier and faster with meaningful defaults.

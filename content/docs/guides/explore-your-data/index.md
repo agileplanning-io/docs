@@ -101,4 +101,4 @@ In addition to the flow metric reports, there are also reports geared towards pl
 Now that you've learned the basics, you may wish to do one of the following:
 
 1. Learn about [cycle time policies]({{< ref "cycle-time-policies" >}} "Cycle Time Policies"), to understand the options for measuring cycle times.
-2. [Configure your project]({{< ref "configure-project" >}} "Configure Your Project") to make reporting easier and faster with meaningful defaults.
+2. [Configure your project]({{< ref "configure-your-project" >}} "Configure Your Project") to make reporting easier and faster with meaningful defaults.

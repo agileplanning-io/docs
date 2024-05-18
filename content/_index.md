@@ -1,6 +1,6 @@
 ---
-title: "LeanRiver"
-description: "LeanRiver Flow Metrics"
+title: "Jira Flow Metrics"
+description: "Jira Flow Metrics"
 lead: "Open source flow metrics for Jira"
 date: 2023-09-07T16:33:54+02:00
 lastmod: 2023-09-07T16:33:54+02:00
