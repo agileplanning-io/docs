@@ -9,7 +9,7 @@ menu:
   docs:
     parent: ""
     identifier: "flow-metric-reports"
-weight: 830
+weight: 850
 toc: true
 seo:
   # title: "" # custom title (optional)
