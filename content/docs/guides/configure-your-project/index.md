@@ -8,7 +8,7 @@ draft: false
 menu:
   docs:
     parent: ""
-    identifier: "configure-project"
+    identifier: "configure-your-project"
 weight: 840
 toc: true
 seo:
@@ -29,6 +29,8 @@ This brings up the project settings page:
 ![Project settings page](project-settings.png)
 
 From this page you can rename the project, and configure workflows, the definition of 'completed' work, and default cycle time policies. This will make reporting over your work processes faster and more convenient.
+
+Be aware that until this app reaches version 1, there are some caveats listed in [Under Development]({{< ref "under-development" >}} "Under Development"). In particular, synced data may not be backwards compatible if you upgrade the version you're running.
 
 ## Define completed work
 
