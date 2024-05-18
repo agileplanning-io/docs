@@ -32,7 +32,7 @@ This report also shows cycle times, but it does so in a Pareto chart to visualis
 
 ![Histogram](histogram.png)
 
-## Throughput
+## Throughput report
 
 The throughput report shows the team's throughput over a given time unit (day, week, fortnight or month). The percentiles can help you understand typical throughput. For example, if a team has a median throughput of 12 issues per fortnight, then 12 issues might be a reasonable target scope for a two week sprint.
 
