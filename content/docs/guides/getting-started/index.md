@@ -72,18 +72,15 @@ Finally, you need to sync the data with Jira. Syncs must be triggered manually: 
 2. Click the `Sync` button. If your domain is correctly configured then Jira Flow Metrics will sync your Jira data.<br>
    ![Synced project](project-synced.png)
 
-#### Configure default cycle time policies
+Be aware that until this app reaches version 1, there are some caveats listed in [Under Development]({{< ref "under-development" >}} "Under Development"). In particular, synced data may not be backwards compatible if you upgrade the version you're running.
+
+### Configure default cycle time policies
 
 If you're lucky, your team keeps its Jira data exactly up to date, moving Epics through the Jira workflow exactly as work in them is started and completed.
 
 But if you're like most agile coaches / scum masters / managers, you'll know that Jira makes it very easy to forget about this. Stories will be moved through columns on the Scrum / Kanban board, but epics often get forgotten. Thus, epic status histories tell you little about how features are delivered.
 
-Jira Flow Metrics lets you define cycle time policies for epics to get around this. For example, you might wish to measure epic cycle times in the following way:
-
-1. From the time the first issue in the epic was started to the time the last issue was completed.
-2. Perhaps you're interested only in Engineering implementation cycle times, and want to exclude Product discovery tasks. You might choose to exclude issues with a `discovery` label from the cycle times.
-
-You can define default cycle time policies under the project settings.
+Jira Flow Metrics lets you define computed cycle time policies for epics to get around this. For more on this see [Cycle Time Policies]({{< ref "cycle-time-policies" >}} "Cycle Time Policies") and [Configure Your Project]({{< ref "configure-your-project" >}} "Configure Your Project").
 
 ## Next steps
 
