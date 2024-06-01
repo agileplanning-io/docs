@@ -46,7 +46,7 @@ For example, without this filter, if the Product Owner closes a number of backlo
 
 ![Default completed work filter](completed-work-filter.png)
 
-When syncing a new project, Jira Team Metrics creates a default completed work filter to include only issues with the 'Done' resolution (if it exists in the project).
+When syncing a new project, Jira Flow Metrics creates a default completed work filter to include only issues with the 'Done' resolution (if it exists in the project).
 
 ### A note on team-managed projects
 
