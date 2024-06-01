@@ -35,9 +35,9 @@ url = "/docs/guides/getting-started"
 weight = 10
 
 [[main]]
-name = "Blog"
-url = "/blog/"
-weight = 30
+# name = "Blog"
+# url = "/blog/"
+# weight = 30
 
 # [[social]]
 #   name = "Twitter"
