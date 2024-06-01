@@ -1,6 +1,6 @@
 # Hugo
 title = "Jira Flow Metrics"
-description = "Congrats on setting up a new Doks project!"
+description = "Open source flow metrics and planning reports for Jira"
 images = ["cover.png"]
 
 # mainSections
