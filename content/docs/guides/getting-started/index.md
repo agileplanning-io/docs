@@ -20,6 +20,10 @@ seo:
 
 Get set up with Jira Flow Metrics.
 
+## Prerequisites
+
+You need to have `pnpm` installed: https://pnpm.io/installation
+
 ## Installation
 
 To run the app, clone the repository and run the `bootstrap.sh` script:
