@@ -50,9 +50,7 @@ When syncing a new project, Jira Team Metrics creates a default completed work f
 
 ### A note on team-managed projects
 
-At the time of writing, Jira team-managed projects do not support resolutions. You may wish to use labels instead (e.g. `wont-fix`, `duplicate`, etc.), which can be used in the default completed work filter in the same way:
-
-TODO: screenshot
+At the time of writing, Jira team-managed projects do not support resolutions. You may wish to use labels instead (e.g. `wont-fix`, `duplicate`, etc.), which can be used in the default completed work filter in the same way.
 
 ## Workflows
 

@@ -76,7 +76,7 @@ Per the [DORA research model](https://dora.dev/research/), continuous delivery p
 
 ### Example: cycle time scatterplot
 
-For a more thorough explanation of these flow metric reports see TODO: link to flow metric reports. But for now, we can take a look at the cycle time scatterplot to get a feel for how these reports work.
+For a more thorough explanation of these reports see [Flow Metric Reports]({{< ref "flow-metric-reports" >}} "Flow Metric Reports"). But for now, we can take a look at the cycle time scatterplot to get a feel for how these reports work.
 
 ![Cycle time scatterplot](scatterplot.png)
 
