@@ -84,4 +84,4 @@ Jira Flow Metrics lets you define computed cycle time policies for epics to get 
 
 ## Next steps
 
-Once you've configured a project, read the next guide [Explore Your Data]({{< ref "explore-your-data" >}} "Explore Your Data").
+Once you've created a project, you can [explore your data]({{< ref "explore-your-data" >}} "Explore Your Data").
