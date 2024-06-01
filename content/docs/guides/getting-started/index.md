@@ -72,6 +72,8 @@ Finally, you need to sync the data with Jira. Syncs must be triggered manually: 
 2. Click the `Sync` button. If your domain is correctly configured then Jira Flow Metrics will sync your Jira data.<br>
    ![Synced project](project-synced.png)
 
+Note that Jira Flow Metrics will only ever _read_ data from Jira: it treats Jira as the source of truth and never tries to write to Jira.
+
 Be aware that until this app reaches version 1, there are some caveats listed in [Under Development]({{< ref "under-development" >}} "Under Development"). In particular, synced data may not be backwards compatible if you upgrade the version you're running.
 
 ### Configure default cycle time policies
