@@ -40,7 +40,7 @@ Epic cycle time policies may be defined in terms of statuses, but it's surprisin
 2. Even if a team has a defined epic workflow, it's easy to forget to update the epic status as it is scoped, started and completed.
 3. A common activity for an Agile/Lean coach or consultant is to explore prior team data. Unless the team has already been disciplined about its use of Jira, chances are epic status histories won't be accurate.
 
-To assist with this problem, Jira Team Metrics lets you define **computed** cycle time policies for epics. These are computed based on the individual issues done within them, as measured according to the story cycle time policy.
+To assist with this problem, Jira Flow Metrics lets you define **computed** cycle time policies for epics. These are computed based on the individual issues done within them, as measured according to the story cycle time policy.
 
 For example, with no additional filters applied, a computed epic cycle time policy will determine epic flow attributes as follows:
 
